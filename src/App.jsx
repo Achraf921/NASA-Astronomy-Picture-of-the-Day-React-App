@@ -8,7 +8,7 @@ function App() {
   const[data,setData]=useState(null); 
   const[loading,setLoading]=useState(false);
 
-  const NASA_KEY = import.meta.env.VITE_NASA_API_KEY;
+  const NASA_KEY = "6kgjDHwO5gKoq3pB9IaGcvXN8PtfSqapHtsPl6ys";
 
 
   useEffect(()=>{
