@@ -1,5 +1,3 @@
-Here’s a sample README for your NASA Astronomy Picture of the Day (APOD) React App. You can customize it as needed!
-
 NASA Astronomy Picture of the Day (APOD) React App
 
  
